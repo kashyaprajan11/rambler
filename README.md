@@ -1,19 +1,19 @@
 # rambler 
 [![build](https://app.wercker.com/status/b645428b6f548288d71d3ba83cc1a783/s/master "wercker status")](https://app.wercker.com/project/bykey/b645428b6f548288d71d3ba83cc1a783)
-[![Coverage Status](https://coveralls.io/repos/elwinar/rambler/badge.svg?branch=master&service=github)](https://coveralls.io/github/elwinar/rambler?branch=master)
+[![Coverage Status](https://coveralls.io/repos/kashyaprajan11/rambler/badge.svg?branch=master&service=github)](https://coveralls.io/github/kashyaprajan11/rambler?branch=master)
 
 A simple and language-independent SQL schema migration tool
 
 ## Installation
 
 You can download the latest release on the [release
-page](https://github.com/elwinar/rambler/releases) of the project.
+page](https://github.com/kashyaprajan11/rambler/releases) of the project.
 
 Go users can also simply compile it from source and install it as a go
 executable using the following command :
 
 ```
-go install github.com/elwinar/rambler
+go install github.com/kashyaprajan11/rambler
 ```
 
 Releases are compiled using the wonderful
